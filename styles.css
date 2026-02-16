@@ -109,14 +109,6 @@ a {
   font-weight: 400;
 }
 
-.logo-q {
-  margin-left: 0.05rem;
-  margin-top: 0.1rem;
-  font-size: 0.58rem;
-  color: var(--brand-2);
-  font-family: "Space Grotesk", sans-serif;
-}
-
 .logo-text {
   font-family: "Space Grotesk", sans-serif;
   text-transform: lowercase;
