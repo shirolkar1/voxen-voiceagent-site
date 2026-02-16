@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="voxen favicon">
+  <rect x="4" y="4" width="56" height="56" rx="16" fill="#08141c"/>
+  <path d="M15 23 C19 45, 30 46, 36 24 C38 18, 42 18, 47 26" fill="none" stroke="#26d0a8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M46 26 C48 28, 49 30, 49 33" fill="none" stroke="#26d0a8" stroke-width="3" stroke-linecap="round"/>
+</svg>
